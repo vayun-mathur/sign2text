@@ -1,0 +1,6 @@
+ffmpeg-python
+transformers
+numpy
+tqdm
+pandas
+nltk
